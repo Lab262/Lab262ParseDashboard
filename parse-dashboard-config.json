@@ -4,13 +4,46 @@
       "serverURL": "https://socialnetwork55lab.herokuapp.com/parse",
       "appId": "lab262_55lab_social_network",
       "masterKey": "ZobskHKD7{cCERvjh6jL86^9K{c?W8fg;FK+k^N29L8z#)9VWjPGKzcqZeNqwW;b",
-      "appName": "55Lab Social Network Api"
+      "appName": "55Lab Community Api",
+      "iconName": "55labsocialnetwork.png",
+      "production": false
+    },
+    {
+      "serverURL": "https://ohmyboxapi.herokuapp.com/parse",
+      "appId": "ohmyboxapi",
+      "masterKey": "^4M=TP3aL+G4%orUyNf67#csYKfwW4awgT7nPDFG9XfD$ig{Ed)nGKW[2YY^cpX9",
+      "appName": "OhMyBox Api",
+      "iconName": "ohmybox.png",
+      "production": false
+    },
+    {
+      "serverURL": "https://boomerangapi.herokuapp.com/parse",
+      "appId": "boomerangapi",
+      "masterKey": "74/k%m9YJbxaYdf(w.F[V@8Z748jP8JGRoeZG8ZmL(qmK&nfuneWR3XkRkL$M;nG",
+      "appName": "Boomerang Api",
+      "iconName": "boomerangapi.png",
+      "production": false
     }
+
+
   ],
+  "iconsFolder": "icons",
   "users": [
     {
       "user":"thiago",
-      "pass":"nVVWy7x%M8*3vh2,y{[Dc7QD8h[=mGudNayZfcQBdBCFrv62MjPKuc29tQF]y$[z"
+      "pass":"nVVWy7x%M8*3vh2,y{[Dc7QD8h[=mGudNayZfcQBdBCFrv62MjPKuc29tQF]y$[z",
+      "apps": [
+        {"appId": "lab262_55lab_social_network"},
+        {"appId": "ohmyboxapi"},
+        {"appId": "boomerangapi"}
+      ]
+    },
+    {
+      "user":"andremarques",
+      "pass":"PgCbTq?sTF4@.Z.9gNx$4zf???3MY;]dnnhAa2jBAkK7z73iwHp8BHEtYjJ2UXBt",
+      "apps": [
+        {"appId": "ohmyboxapi"}
+      ]
     }
   ]
 }
