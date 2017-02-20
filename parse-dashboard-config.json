@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://55labsocialnetwork.herokuapp.com/parse",
+      "serverURL": "https://socialnetwork55lab.herokuapp.com/parse",
       "appId": "lab262_55lab_social_network",
       "masterKey": "ZobskHKD7{cCERvjh6jL86^9K{c?W8fg;FK+k^N29L8z#)9VWjPGKzcqZeNqwW;b",
       "appName": "55Lab Social Network Api"
