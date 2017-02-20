@@ -1,0 +1,17 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://55labsocialnetwork.herokuapp.com/parse", // For an app still hosted on Parse.com
+      "appId": "lab262_55lab_social_network",
+      "masterKey": "ZobskHKD7{cCERvjh6jL86^9K{c?W8fg;FK+k^N29L8z#)9VWjPGKzcqZeNqwW;b",
+      "appName": "55Lab Social Network",
+      "production": false
+    }
+  ],
+  "users": [
+    {
+      "user":"thiago",
+      "pass":"8y6sru74EJf&mLW8%PBv4eweF}WE6[VvyE4bmZJ&nuT}Ds(PvFBXM$7Aw4@XsY@t" // change this to something secure
+    }
+  ]
+}
