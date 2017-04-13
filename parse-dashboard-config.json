@@ -17,8 +17,8 @@
       "production": false
     },
     {
-      "serverURL": "https://boomerangapi.herokuapp.com/parse",
-      "appId": "boomerangapi",
+      "serverURL": "https://boomerang-api.herokuapp.com/parse",
+      "appId": "boomerang-api",
       "masterKey": "74/k%m9YJbxaYdf(w.F[V@8Z748jP8JGRoeZG8ZmL(qmK&nfuneWR3XkRkL$M;nG",
       "appName": "Boomerang Api",
       "iconName": "boomerangapi.png",
