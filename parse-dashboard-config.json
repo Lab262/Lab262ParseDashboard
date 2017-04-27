@@ -1,12 +1,28 @@
 {
   "apps": [
     {
-      "serverURL": "https://socialnetwork55lab.herokuapp.com/parse",
-      "appId": "lab262_55lab_social_network",
-      "masterKey": "ZobskHKD7{cCERvjh6jL86^9K{c?W8fg;FK+k^N29L8z#)9VWjPGKzcqZeNqwW;b",
-      "appName": "55Lab Community Api",
+      "serverURL": "http://api-55lab-dev.herokuapp.com/parse",
+      "appId": "api-55lab-dev",
+      "masterKey": "6nNR?X+Gx[)f(R6bxr6Dmzc%yw;7VWo9ceADx9RM7H,nj=fees^raHHrX2MB3Ve2",
+      "appName": "55Lab Api - DEV",
       "iconName": "55labsocialnetwork.png",
       "production": false
+    },
+    {
+      "serverURL": "http://api-55lab-test.herokuapp.com/parse",
+      "appId": "api-55lab-test",
+      "masterKey": "P2jTNUU>op7HkCToE3bJq&^8Z7ys2LDsiL[a7wE)J@kizrZ9XLuF3JU;ewG2n$>;",
+      "appName": "55Lab Api - TEST",
+      "iconName": "55labsocialnetwork.png",
+      "production": false
+    },
+    {
+      "serverURL": "https://api-55lab-prd.herokuapp.com/parse",
+      "appId": "api-55lab-prd",
+      "masterKey": "ZobskHKD7{cCERvjh6jL86^9K{c?W8fg;FK+k^N29L8z#)9VWjPGKzcqZeNqwW;b",
+      "appName": "55Lab Api - PRODUCTION",
+      "iconName": "55labsocialnetwork.png",
+      "production": true
     },
     {
       "serverURL": "https://ohmyboxapi.herokuapp.com/parse",
@@ -32,11 +48,6 @@
     {
       "user":"thiago",
       "pass":"nVVWy7x%M8*3vh2,y{[Dc7QD8h[=mGudNayZfcQBdBCFrv62MjPKuc29tQF]y$[z",
-      "apps": [
-        {"appId": "lab262_55lab_social_network"},
-        {"appId": "ohmyboxapi"},
-        {"appId": "boomerang-api"}
-      ]
     },
     {
       "user":"andremarques",
