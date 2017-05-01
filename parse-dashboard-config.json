@@ -25,20 +25,52 @@
       "production": true
     },
     {
-      "serverURL": "https://ohmyboxapi.herokuapp.com/parse",
-      "appId": "ohmyboxapi",
+      "serverURL": "https://api-boomerang-dev.herokuapp.com/parse",
+      "appId": "api-boomerang-dev",
+      "masterKey": "74/k%m9YJbxaYdf(w.F[V@8Z748jP8JGRoeZG8ZmL(qmK&nfuneWR3XkRkL$M;nG",
+      "appName": "Boomerang Api - DEV",
+      "iconName": "boomerangapi.png",
+      "production": false
+    },
+    {
+      "serverURL": "https://api-boomerang-test.herokuapp.com/parse",
+      "appId": "api-boomerang-test",
+      "masterKey": "MPvJ3T?sb#t62X&o4v6KEbqeUGefW(9unkdccZU]c3,96xLAF[Mtgq]eJ9%adUU^",
+      "appName": "Boomerang Api - TEST",
+      "iconName": "boomerangapi.png",
+      "production": false
+    },
+    {
+      "serverURL": "https://api-boomerang-prd.herokuapp.com/parse",
+      "appId": "api-boomerang-prd",
+      "masterKey": "J6366*4/u,PXqX7$fGkK[ybVPM8P9rzA)oTDLGrahz#/Uvm7z+s8efCMKXmg+PzT",
+      "appName": "Boomerang Api - PRODUCTION",
+      "iconName": "boomerangapi.png",
+      "production": true
+    },
+    {
+      "serverURL": "https://api-ohmybox-dev.herokuapp.com/parse",
+      "appId": "api-ohmybox-dev",
       "masterKey": "^4M=TP3aL+G4%orUyNf67#csYKfwW4awgT7nPDFG9XfD$ig{Ed)nGKW[2YY^cpX9",
-      "appName": "OhMyBox Api",
+      "appName": "OhMyBox Api - DEV",
       "iconName": "ohmybox.png",
       "production": false
     },
     {
-      "serverURL": "https://boomerang-api.herokuapp.com/parse",
-      "appId": "boomerang-api",
-      "masterKey": "74/k%m9YJbxaYdf(w.F[V@8Z748jP8JGRoeZG8ZmL(qmK&nfuneWR3XkRkL$M;nG",
-      "appName": "Boomerang Api",
-      "iconName": "boomerangapi.png",
+      "serverURL": "https://api-ohmybox-test.herokuapp.com/parse",
+      "appId": "api-ohmybox-test",
+      "masterKey": "4)^wyfTK3&RD4Z/Q4DRDN*UMuJRUUPV4oZs^uix9ad9/iDi*a44xnapofY],sp6s",
+      "appName": "OhMyBox Api - TEST",
+      "iconName": "ohmybox.png",
       "production": false
+    },
+    {
+      "serverURL": "https://api-ohmybox-production.herokuapp.com/parse",
+      "appId": "api-ohmybox-production",
+      "masterKey": "[Hr4tnZbPe?UtThhE67eG8BndKp{Tkb9NA/3(xUm}ieEJF6m%Zv3(Xtx47@zGn=W",
+      "appName": "OhMyBox Api - PRODUCTION",
+      "iconName": "ohmybox.png",
+      "production": true
     }
   ],
   "iconsFolder": "icons",
