@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://api-55lab-dev.herokuapp.com/parse",
+      "serverURL": "https://api-55lab-dev.herokuapp.com/parse",
       "appId": "api-55lab-dev",
       "masterKey": "6nNR?X+Gx[)f(R6bxr6Dmzc%yw;7VWo9ceADx9RM7H,nj=fees^raHHrX2MB3Ve2",
       "appName": "55Lab Api - DEV",
@@ -9,7 +9,7 @@
       "production": false
     },
     {
-      "serverURL": "http://api-55lab-test.herokuapp.com/parse",
+      "serverURL": "https://api-55lab-test.herokuapp.com/parse",
       "appId": "api-55lab-test",
       "masterKey": "P2jTNUU>op7HkCToE3bJq&^8Z7ys2LDsiL[a7wE)J@kizrZ9XLuF3JU;ewG2n$>;",
       "appName": "55Lab Api - TEST",
